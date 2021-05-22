@@ -25,10 +25,8 @@ I really enjoy learning languages, libraries and frameworks like react, express,
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaynavale&layout=compact&hide=jupyter%20notebook&hide_border=true&theme=radical" alt="Most Used Languages" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmaynavale&show_icons=true&hide=prs,stars&include_all_commits=true&hide_border=true&theme=radical" alt="chinmay's Github Stats" /></p>
-
+![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmaynavale&show_icons=true&hide=contribs,prs,stars&include_all_commits=true&hide_border=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaynavale&layout=compact&hide=jupyter%20notebook&hide_border=true&theme=radical)
 
 #### Get in Touch:
 
