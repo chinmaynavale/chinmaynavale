@@ -1,6 +1,6 @@
 <h1>Hi there 👋, I'm Chinmay.</h1>
 
-### A passionate WebDeveloper and a Machine Leraning Enthusiast.
+### A passionate MERN Stack Developer and a Machine Learning Enthusiast.
 
 I really enjoy learning languages, libraries and frameworks like react, express, as well as working on Machine Learning.
 
