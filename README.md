@@ -4,7 +4,7 @@
 
 I really enjoy learning languages, libraries and frameworks like react, express, as well as working on Machine Learning.
 
-- 🔭 I’m currently working on [personal-blog] project using express
+- 🔭 I’m currently working on [secrets] project using express
 - 🌱 I’m currently learning Node and Express
 - 👯 I'm looking to contribute in open source projects
 
@@ -34,7 +34,7 @@ I really enjoy learning languages, libraries and frameworks like react, express,
 <a href="mailto:chinmaymnavale@gmail.com">![image][gmail]</a>
 
 <!-- links -->
-[personal-blog]: https://github.com/chinmaynavale/personal-blog
+[secrets]: https://github.com/chinmaynavale/Secrets
 [mongodb]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 [express]: https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
 [react]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
