@@ -18,6 +18,10 @@ I really enjoy developing business intelligence, visual reports, dashboards and 
 <!-- <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
 -->
 
+<h3> Project Portfolio</h3>
+
+MavenToys - Excel Dashboard
+
 <br />
 
 ![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmaynavale&show_icons=true&hide=contribs,prs,stars&include_all_commits=true&hide_border=true&theme=radical)
@@ -29,6 +33,7 @@ I really enjoy developing business intelligence, visual reports, dashboards and 
 <a href="mailto:chinmay.navale@outlook.com">![image][outlook]</a>
 
 <!-- links -->
+[MavenToys - Excel Dashboard]: https://www.mavenanalytics.io/project/5595
 [secrets]: https://github.com/chinmaynavale/Secrets
 [ssms]: https://img.shields.io/badge/ssms-4c4c4c?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=red
 [mysql]: https://img.shields.io/badge/mysql-285c7d?style=for-the-badge&logo=MySQL&logoColor=white
