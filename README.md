@@ -20,7 +20,7 @@ I really enjoy developing business intelligence, visual reports, dashboards and 
 
 <h3> Project Portfolio</h3>
 
-MavenToys - Excel Dashboard
+<a>[MavenToys - Excel Dashboard]</a>
 
 <br />
 
@@ -40,6 +40,7 @@ MavenToys - Excel Dashboard
 [python]: https://img.shields.io/badge/python-43853D?style=for-the-badge&logo=python&logoColor=white
 [powerbi]: https://img.shields.io/badge/powerbi-463c15?style=for-the-badge&logo=powerbi&logoColor=default
 [excel]: https://img.shields.io/badge/excel-ffffff?style=for-the-badge&logo=microsoft%20excel&logoColor=darkgreen
+[Excel]: https://img.shields.io/badge/excel-ffffff?style=social&logo=microsoft%20excel&logoColor=darkgreen
 [linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [outlook]: https://img.shields.io/badge/outlook-ffffff?style=for-the-badge&logo=microsoft%20outlook&logoColor=blue
 [powerbi2]: https://img.shields.io/badge/powerbi-463c15?style=social&logo=powerbi&logoColor=yellow
